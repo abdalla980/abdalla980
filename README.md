@@ -11,5 +11,5 @@ I'm Abdalla, a Web Developer student passionate about building meaningful digita
 💬 Ask me about TypeScript, React, UX design, privacy-first apps.
 
 📫 How to reach me: Abdullahizzldin1@gmail.com
-PortFolio: https://abdallawebsite.netlify.app/
+Portfolio: https://abdallawebsite.netlify.app/
 
