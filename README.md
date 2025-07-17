@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**abdalla980/Abdalla980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Abdalla, a Web Developer student passionate about building meaningful digital experiences that help people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning advanced backend logic with NestJS and exploring privacy-first design patterns. Along with trying to master React and build creative interfaces!
+
+👯 I’m looking to collaborate on projects that combine clean UI with ethical tech — especially in education, social good, or accessibility.
+
+
+💬 Ask me about TypeScript, React, UX design, privacy-first apps.
+
+📫 How to reach me: Abdullahizzldin1@gmail.com
+PortFolio: https://abdallawebsite.netlify.app/
+
