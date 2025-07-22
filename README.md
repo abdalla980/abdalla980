@@ -12,5 +12,5 @@ I'm Abdalla, a Web Developer student passionate about building meaningful digita
 📫 How to reach me:
 Email: Abdullahizzldin1@gmail.com
 Portfolio: https://abdallawebsite.netlify.app/
-Desgins: https://www.behance.net/AbdallaBabikir
+Designs: https://www.behance.net/AbdallaBabikir
 
