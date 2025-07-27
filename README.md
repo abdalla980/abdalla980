@@ -8,7 +8,7 @@ I'm currently focused on mastering React and building creative, user-friendly in
 
 
 
-Get in Touch! 
+Get in Touch! </br>
 Email: Abdullahizzldin1@gmail.com
 Portfolio: https://abdallawebsite.netlify.app/
 Designs: https://www.behance.net/AbdallaBabikir
