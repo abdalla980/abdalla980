@@ -5,7 +5,6 @@ I'm Abdalla, a Web Developer student passionate about building meaningful digita
 
  I’m currently learning backend logic with NestJS and exploring privacy-first design patterns. Along with trying to master React and build creative interfaces!
 
-👯 I’m looking to collaborate on projects that combine clean UI with ethical tech — especially in education, social good, or accessibility.
 
 
 
