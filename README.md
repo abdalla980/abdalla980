@@ -11,6 +11,6 @@ Get in Touch! </br>
 Portfolio: https://abdallawebsite.netlify.app</br>
 Linkedin: https://www.linkedin.com/in/abdalla-izzeldin-b5721733b/<br/>
 Designs: https://www.behance.net/AbdallaBabikir</br>
-Email:&nbsp;Abdullahizzldin1@gmail.com</br>
+Email:Abdullahizzldin1@gmail.com</br>
 
 
