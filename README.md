@@ -1,16 +1,13 @@
-#  👨‍💻
+# 👨‍💻 Abdalla – Web Developer & UI/UX Designer
 
-I'm Abdalla, a Web Developer & UI/UX student passionate about building meaningful digital experiences that help people.
-I'm currently focused on mastering React and building creative, user-friendly interfaces, while exploring privacy-first design patterns to design more eye-catching frontends.
+I’m Abdalla, a Web Developer and UI/UX student passionate about creating meaningful digital experiences that make a difference.  
+Currently, I’m focused on mastering **React** and crafting creative, user-friendly interfaces, while exploring **privacy-first design** principles to deliver engaging and visually striking frontends.
 
+---
 
-
-
-
-Get in Touch! </br>
-Portfolio: https://abdallawebsite.netlify.app</br>
-Linkedin: https://www.linkedin.com/in/abdalla-izzeldin-b5721733b/<br/>
-Designs: https://www.behance.net/AbdallaBabikir</br>
-Email:Abdullahizzldin1@gmail.com</br>
-
+### 📬 Get in Touch
+- **Portfolio**: [abdallawebsite.netlify.app](https://abdallawebsite.netlify.app)  
+- **LinkedIn**: [linkedin.com/in/abdalla-izzeldin-b5721733b](https://www.linkedin.com/in/abdalla-izzeldin-b5721733b/)  
+- **Design Portfolio**: [behance.net/AbdallaBabikir](https://www.behance.net/AbdallaBabikir)  
+- **Email**: [Abdullahizzldin1@gmail.com](mailto:Abdullahizzldin1@gmail.com)
 
