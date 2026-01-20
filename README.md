@@ -1,6 +1,6 @@
 # 👨‍💻 Abdalla –  Web & Mobile developer
 
-I’m Abdalla, a Web Developer and UI/UX designer passionate about creating meaningful digital experiences that make a difference.  
+I’m Abdalla, a Web/Mobile Developer passionate about creating meaningful digital experiences that make a difference.  
 Currently, I’m focused on mastering **React** and crafting creative, user friendly interfaces, while exploring **privacy-first design** principles to deliver engaging and visually striking frontends.
 
 ---
