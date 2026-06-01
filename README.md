@@ -5,6 +5,7 @@ I’m Abdalla, a Web/Mobile Developer passionate about creating meaningful digit
 ---
 
 ### 📬 Get in Touch
+- **Portfolio**: [Personal-Portfolio](https://abdalla-site.netlify.app/)  
 - **LinkedIn**: [linkedin.com/in/abdalla-izzeldin-b5721733b](https://www.linkedin.com/in/abdalla-izzeldin-b5721733b/)  
 - **Email**  : [Abdullahizzldin1@gmail.com](mailto:Abdullahizzldin1@gmail.com)
 
