@@ -1,7 +1,7 @@
 # 👨‍💻 Abdalla –  Web & Mobile developer
 
- A Student based in Berlin, turning ideas into software that helps businesses grow and solve real-world challenges.
 ---
+ A Student based in Berlin, turning ideas into software that helps businesses grow and solve real-world challenges.
 
 ### 📬 Get in Touch
 - **Portfolio**: [Personal-Portfolio](https://abdalla-site.netlify.app/)  
