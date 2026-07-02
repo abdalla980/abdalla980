@@ -1,7 +1,6 @@
 # 👨‍💻 Abdalla –  Web & Mobile developer
 
-I’m Abdalla, a Web/Mobile Developer passionate about creating meaningful digital experiences that make a difference.  
-
+🌍 A Student based in Berlin, turning ideas into software that helps businesses grow and solve real-world challenges.
 ---
 
 ### 📬 Get in Touch
